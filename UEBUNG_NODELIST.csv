@@ -1,5 +1,5 @@
-name,age,education,religion
-tom,26,gym,evang
-sophia,28,gym,kathol
-jürgen,70,gym,evang
-ingrid,57,gym,evang
+id,name,age,education,religion
+tom,tom,26,gym,evang
+sophia,sophia,28,gym,kathol
+jürgen,jürgen,70,gym,evang
+ingrid,ingrid,57,gym,evang
